@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "142082217671",
+    "project_id": "al-waha-32035",
+    "storage_bucket": "al-waha-32035.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142082217671:android:f16d9679ad9989378910e2",
+        "android_client_info": {
+          "package_name": "com.example.al_waha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142082217671-21p3ehfh92daintgirvthbd96tu7mghf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.al_waha",
+            "certificate_hash": "3ab41cf634475a0ea8bb405e18324aa53ab654cf"
+          }
+        },
+        {
+          "client_id": "142082217671-1e6taqf91bjptojdp655412jln1sfkld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs_d0QXEKl9rQOYSJ7qu-TAlX8QqzUxWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142082217671-1e6taqf91bjptojdp655412jln1sfkld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
